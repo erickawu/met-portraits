@@ -1,17 +1,17 @@
 [
 	{
 		"category": 125,
-        "link" : "img/year/125.png",
+        "link" : "img/year/125.jpg",
 		"count": 2
   	},
   	{
 		"category": 130,
-        "link" : "img/year/130.png",
+        "link" : "img/year/130.jpg",
 		"count": 11
   	},
   	{
 		"category": 135,
-        "link" : "img/year/135.png",
+        "link" : "img/year/135.jpg",
 		"count": 3
   	},
   	{
@@ -21,52 +21,52 @@
   	},
   	{
 		"category": 145,
-        "link" : "img/year/145.png",
+        "link" : "img/year/145.jpg",
 		"count": 62
   	},
   	{
 		"category": 150,
-        "link" : "img/year/150.png",
+        "link" : "img/year/150.jpg",
 		"count": 124
   	},
   	{
 		"category": 155,
-        "link" : "img/year/155.png",
+        "link" : "img/year/155.jpg",
 		"count": 37
   	},
   	{
 		"category": 160,
-        "link" : "img/year/160.png",
+        "link" : "img/year/160.jpg",
 		"count": 102
   	},
   	{
 		"category": 165,
-        "link" : "img/year/165.png",
+        "link" : "img/year/165.jpg",
 		"count": 67
   	},
   	{
 		"category": 170,
-        "link" : "img/year/170.png",
+        "link" : "img/year/170.jpg",
 		"count": 53
   	},
   	{
 		"category": 175,
-        "link" : "img/year/175.png",
+        "link" : "img/year/175.jpg",
 		"count": 165
   	},
   	{
 		"category": 180,
-        "link" : "img/year/180.png",
+        "link" : "img/year/180.jpg",
 		"count": 103
   	},
   	{
 		"category": 185,
-        "link" : "img/year/185.png",
+        "link" : "img/year/185.jpg",
 		"count": 60
   	},
   	{
 		"category": 190,
-        "link" : "img/year/190.png",
+        "link" : "img/year/190.jpg",
 		"count": 4
   	}
 ]
