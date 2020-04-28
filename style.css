@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+  }
+
+  @font-face{
+    font-family:'Apercu Regular';
+    src:url(fonts/Apercu_Regular.otf);
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'courier';
+    font-size: 14px;
+    background-color: black;
+  }
+
+
+  h1 {
+    flex: 0 1 calc(60% - 2rem);
+    color: #77815d;
+    font-family: 'Apercu Regular';
+    text-align: center;
+    font-size: 70px;
+    font-weight: 400;
+  }
+
+  #container {
+    background-color: beige;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5rem;
+    opacity: 0.9;
+  }
+
+  #viz {
+    flex: 1 1 calc(100% - 2rem);
+    font-size: 40px;
+    margin: 1rem;
+    border: 1px solid gray; 
+  }
+
+  svg{
+    display: block;
+    margin: auto;
+  } 
