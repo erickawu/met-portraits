@@ -1,92 +1,112 @@
 [
 	{
 		"category": 120,
-        "link" : "img/year/120.jpg",
+        	"link" : "img/year/120.jpg",
 		"count": 2,
 		"totalcount": 2
+		"time": "1200-1250"
   	},
 	{
 		"category": 125,
-        "link" : "img/year/125.jpg",
+       	 	"link" : "img/year/125.jpg",
 		"count": 2,
 		"totalcount": 4
+		"time": "1250-1300"
   	},
   	{
 		"category": 130,
-        "link" : "img/year/130.jpg",
+       		"link" : "img/year/130.jpg",
 		"count": 11,
 		"totalcount": 15
+		"time": "1300-1350"
   	},
   	{
 		"category": 135,
-        "link" : "img/year/135.jpg",
+        	"link" : "img/year/135.jpg",
 		"count": 3,
 		"totalcount": 18
+		"time": "1350-1400"
   	},
   	{
 		"category": 140,
-        "link" : "img/year/140.jpg",
+        	"link" : "img/year/140.jpg",
 		"count": 11,
 		"totalcount": 29
+		"time": "1400-1450"		
   	},
   	{
 		"category": 145,
-        "link" : "img/year/145.jpg",
+        	"link" : "img/year/145.jpg",
 		"count": 62,
 		"totalcount": 90
+		"time": "1450-1500"			
   	},
   	{
 		"category": 150,
-        "link" : "img/year/150.jpg",
+        	"link" : "img/year/150.jpg",
 		"count": 123,
 		"totalcount": 213
+		"time": "1500-1550"			
   	},
   	{
 		"category": 155,
-        "link" : "img/year/155.jpg",
+        	"link" : "img/year/155.jpg",
 		"count": 36,
 		"totalcount": 249
+		"time": "1550-1600"		
   	},
   	{
 		"category": 160,
-        "link" : "img/year/160.jpg",
+        	"link" : "img/year/160.jpg",
 		"count": 101,
 		"totalcount": 350
+		"time": "1600-1650"			
   	},
   	{
 		"category": 165,
-        "link" : "img/year/165.jpg",
+        	"link" : "img/year/165.jpg",
 		"count": 66,
 		"totalcount": 416
+		"time": "1650-1700"			
+		
   	},
   	{
 		"category": 170,
-        "link" : "img/year/170.jpg",
+        	"link" : "img/year/170.jpg",
 		"count": 52,
 		"totalcount": 468
+		"time": "1700-1750"			
+
   	},
   	{
 		"category": 175,
-        "link" : "img/year/175.jpg",
+        	"link" : "img/year/175.jpg",
 		"count": 164,
 		"totalcount": 632
+		"time": "1750-1800"			
   	},
   	{
 		"category": 180,
-        "link" : "img/year/180.jpg",
+        	"link" : "img/year/180.jpg",
 		"count": 102,
 		"totalcount": 734
+		"time": "1800-1850"			
+		
   	},
   	{
 		"category": 185,
-        "link" : "img/year/185.jpg",
+        	"link" : "img/year/185.jpg",
 		"count": 59,
 		"totalcount": 793
+		"time": "1850-1900"			
+		
   	},
   	{
 		"category": 190,
-        "link" : "img/year/190.jpg",
+        	"link" : "img/year/190.jpg",
 		"count": 4,
 		"totalcount": 797
+		"time": "1900-1950"			
+		
   	}
 ]
