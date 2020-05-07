@@ -10,23 +10,54 @@
   body {
     margin: 0;
     padding: 0;
-    font-family: 'courier';
-    font-size: 14px;
+    font-family: 'courier new';
+    font-size: 12px;
+    color: #e8e0c5;
     background-color: black;
   }
 
 
   h1 {
     flex: 0 1 calc(60% - 2rem);
-    color: #77815d;
+    color: rgb(211, 195, 153);
     font-family: 'Apercu Regular';
     text-align: center;
-    font-size: 70px;
-    font-weight: 400;
+    font-size: 65px;
+    font-weight: 100;
+  }
+
+  h2 {
+    flex: 0 1 calc(50% - 2rem);
+    color: rgb(161, 152, 125);
+    font-family: 'Apercu Regular';
+    text-align: center;
+    font-size: 18px;
+    font-weight: 800;
+    margin-top:-18px;
+    margin-bottom: 70px;
+  }
+
+  #name {
+    flex: 0 1 calc(80% - 2rem);
+    color:rgb(211, 195, 153);
+    font-family: 'Apercu Regular';
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 30px;
+  }
+
+  p {
+    flex: 0 1 calc(80% - 2rem);
+    color: rgb(224, 217, 200);
+    font-family: 'optima';
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
   }
 
   #container {
-    background-color: beige;
+    background-color: black;
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
@@ -38,10 +69,16 @@
     flex: 1 1 calc(100% - 2rem);
     font-size: 40px;
     margin: 1rem;
-    border: 1px solid gray; 
   }
 
   svg{
     display: block;
     margin: auto;
   } 
+
+  .time path {
+    stroke: "#e8e0c5";
+  }
+  .tick line {
+    stroke:"#e8e0c5";
+  }
